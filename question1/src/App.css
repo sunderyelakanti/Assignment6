@@ -1,0 +1,80 @@
+
+
+.container{
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  margin-top: 130px;
+  border: 1px solid green;
+  width: 700px;
+  height: 350px;
+  padding: 20px 10px;
+  margin-left: 270px;
+  background-color: burlywood;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+
+}
+
+.heading{
+  color: wheat;
+  padding: 10px 14px;
+  background-color: teal;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
+.title{
+  font-size: 30px;
+  text-align: center;
+  color: brown;
+  margin-bottom: 15px;
+
+}
+/* .number{
+  margin-top: 20px;
+} */
+
+.minus{
+  border: 1px solid green;
+  padding: 5px 15px;
+  background-color: blanchedalmond;
+  font-size: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.itext{
+  font-size: 25px;
+  text-align: center;
+  padding: 12px 0px;
+  width: 80px;
+  /* margin-bottom: 10px; */
+  border: none;
+}
+
+
+.ireset1{
+  border: 1px solid green;
+  padding: 5px 15px;
+  background-color: blanchedalmond;
+  font-size: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.plus{
+  
+  border: 1px solid green;
+  padding: 5px 15px;
+  background-color: blanchedalmond;
+  font-size: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
